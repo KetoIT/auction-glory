@@ -1,0 +1,13 @@
+.env
+db/bot.db
+.cursor/
+.autopilot.json
+tmp/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.venv/
+venv/
